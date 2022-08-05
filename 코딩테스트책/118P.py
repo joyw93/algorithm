@@ -106,6 +106,7 @@ def go_forward():
     world[x][y] = 2
 
 
+
 def go_backward():
     global position
     global world
@@ -117,8 +118,6 @@ def go_backward():
     # 플레이어 위치 이동
     position[0] = x
     position[1] = y
-
-
 
 while True:
     if(trial == 4):
