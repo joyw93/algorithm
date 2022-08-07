@@ -14,4 +14,3 @@ for i in range(1, N):
     stack.append(i)
     
 print(*result)
-        
