@@ -12,4 +12,3 @@ stack = [1]
 nodes.insert(0, [])
 visit = [True] + [False] * N
 
-    
